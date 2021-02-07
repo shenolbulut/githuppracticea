@@ -15,7 +15,9 @@ import javax.swing.text.Utilities;
 
 public class UtulityMethods {
     public static void main(String[] args) {
+
         System.out.println("this is the interactive practice for githup");
+        System.out.println("this are new items for githup");
     }
     private UtulityMethods(){}
 
